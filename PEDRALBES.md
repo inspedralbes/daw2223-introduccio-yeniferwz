@@ -6,7 +6,7 @@ Els nostres professors:
     <li>Ermengol</li>
     <li>Pol</li>
     <li>Alvaro</li>
-    <li>Sebastia</li>
+    <li>Susana</li>
 </ol>
 
 ### Assignatures
@@ -18,4 +18,4 @@ Les assignatures del 2n DAW son:
 | M07 - Entorn Servidor         | Pol        |
 | M08 - Desplegament            | Ermengol   |
 | M09 - Disseny D'interficies   | Ermengol   |
-| M010 - UX/UI                  | Sebastia   |
+| M010 - Projecte               | Susana     |
