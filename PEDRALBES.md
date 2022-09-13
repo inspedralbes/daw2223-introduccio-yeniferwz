@@ -16,9 +16,5 @@ Les assignatures del 2n DAW son:
     <li>M07 - Entorn Servidor (Pol)</li>
     <li>M08 - Desplegament (Ermengol)</li>
     <li>M09 - Disseny D'interficies (Ermengol)</li>
-<<<<<<< HEAD
     <li>M010 - UX/UI (Sebastia)</li>
 </ol>
-=======
-</ol>
->>>>>>> c57580b1fca0588dab1d9432a284b6f1bc1eb71f
