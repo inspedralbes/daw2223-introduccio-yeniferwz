@@ -6,6 +6,7 @@ Els nostres professors:
     <li>Ermengol</li>
     <li>Pol</li>
     <li>Alvaro</li>
+    <li>Sebastia</li>
 </ol>
 
 ### Assignatures
